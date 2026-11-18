@@ -1,1 +1,14 @@
-
+streamlit
+moviepy
+pillow
+numpy
+pandas
+gspread
+google-auth
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+opencv-python
+imageio
+imageio-ffmpeg
+python-dotenv
